@@ -4,8 +4,9 @@
 - Merge Sort Projesi 
 - Binary Search Tree Projesi
 
+[Patika.dev](https://www.patika.dev  
+[Patika.Dev](https://app.patika.dev/)
 
-  
 
 # Proje 1 - Insertion Sort ---  [22,27,16,2,18,6]  ## 1.) Yukarı verilen dizinin sort türüne göre aşamaları :
  - [22,27,16,2,18,6] -> n - [2,27,16,22,18,6] ->(n-1)
