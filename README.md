@@ -29,7 +29,7 @@
 ## Proje 2 - Merge Sort ---  [16,21,11,8,12,22]  ### 1.Yukarıda verilen dizinin sort türüne göre aşamalarını yazınız. [16,21,11,8,12,22] [16,21,11] [8,12,22] [16] [21,11] [8,12] [22] [16] [21] [11] [8] [12] [22] [16] [11,21] [8,12] [22] [11,16,21] [8,12,22] [8,11,12,16,21,22] ### 2.Big-O gösterimini yazınız. O(nlog(n))
 
 
-[Patika.Dev](https://www.patika.dev)
+
 
 
 ## Proje 3 - Binary Search Tree ---  [7,5,1,8,3,6,0,9,4,2] 
